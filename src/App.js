@@ -23,7 +23,7 @@ const fetchApi = async () => {
   return (
     <>
     <div className="App">
-    <h1>Hola</h1>
+    <h1>Todo list</h1>
     <ul>
     {
       
